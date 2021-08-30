@@ -1,0 +1,25 @@
+h2{
+    background-color: blue;
+    color: purple;
+       
+}
+body{
+text-align: center;
+   
+}
+img{
+    width: 100px ;
+    border: 2px solid black ;
+}
+img:hover{
+    width: 200px;
+}
+#apps{
+   background-color: yellow;
+}
+#games{
+      background-color: blue;
+}
+#chatbots{
+     background-color:  green;
+}
